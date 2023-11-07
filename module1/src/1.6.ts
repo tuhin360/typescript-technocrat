@@ -33,3 +33,4 @@ const poorUser2 = {
 const arr : number[] = [1, 2, 3, 4];
 const newArray: number[] = arr.map((element:number): number => element*element);
 }
+
